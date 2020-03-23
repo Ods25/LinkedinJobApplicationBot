@@ -4,7 +4,7 @@
 
 ### "Why did you code this?"
 
-  - I got very depressed in my job hunt. I would sit down & apply for approximately 10 to 20 jobs related to the specialties I am studying. 
+  - I got very depressed in my job hunt. I would sit down & apply for approximately 10 to 20 jobs related to the specialties I am studying. I would then stop, lay down, and lament over the sisyphean task I was taking part in.
    - Sometimes I would get a hit, often I wouldn't. When I did get a hit, I would get one of the following: 
         1. "Complete this algorithm using concepts not taught to you in your C++ Algorithms class that ended at trees within 9 hours"
         2. Ghosting me after completing a simple algorithm using concepts that were actually taught to me.
